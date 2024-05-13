@@ -1,0 +1,9 @@
+name = "Structory: Towers"
+filename = "Structory_Towers_1.19_v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/Structory_Towers_1.19_v1.0.1.jar"
+
+hash-format = "sha256"
+hash = "4c6d65e009d5ceda4996f92dd2b2d0935839ff775c37c7564b7b583e3c4b32ee"

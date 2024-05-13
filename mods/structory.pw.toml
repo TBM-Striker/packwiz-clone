@@ -1,0 +1,9 @@
+name = "Structory"
+filename = "Structory-1.19-v1.3.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/Structory-1.19-v1.3.jar"
+
+hash-format = "sha256"
+hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"

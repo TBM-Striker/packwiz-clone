@@ -1,0 +1,13 @@
+name = "The Bonked Minecraft"
+author = "slowest____side"
+version = "0.1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23549ff0bf6882a8c6a3046cc6ae6049aa24970395339cfcba2e2691e458a8f4"
+
+[versions]
+fabric = "0.14.25"
+minecraft = "1.19.2"
